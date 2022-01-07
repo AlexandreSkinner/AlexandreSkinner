@@ -10,6 +10,7 @@
   <img align="center" alt="Ski-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Ski-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ski-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Ski-Pl" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/plsql/plsql-original.svg">
   <img align="right" alt="Ski_pic" height="150" style="border-radius:50px;" 
   src= https://avatars.githubusercontent.com/u/69329309?s=400&u=682151e63c0c87c12ac8d22fefae797275912ac0&v=4?width=660&height=660">
 </div>
