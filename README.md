@@ -16,10 +16,14 @@
     <img style="center" alt="Ski_Node"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">  
     <img style="center" alt="Ski_linx"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
     <img style="center" alt="Ski_Git"   height="30" width="40" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg"> 
+   
+  </td><td valign="top" width="50%">
+   <img style="center" alt="Ski_Aws"   height="30" width="40" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg">
+   <img style="center" alt="Ski_Azu"   height="30" width="40" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg">  
+   <img style="center" alt="Ski_Saas"  height="30" width="40" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass">  
   
  </td></tr></table> 
-      <img align="right" alt="Ski_pic"    height="150" style="border-radius:50px;" 
-   src= "https://avatars.githubusercontent.com/u/69329309?s=400&u=682151e63c0c87c12ac8d22fefae797275912ac0&v=4?width=660&height=660">
+
   
 </div>
   
