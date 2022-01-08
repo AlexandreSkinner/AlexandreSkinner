@@ -18,6 +18,16 @@
     <img style="center" alt="Ski_Git"   height="30" width="40" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg"> 
     <img style="center" alt="MySQL"     height="30" width="40"src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg"> 
    
+    <img style="center" alt="MongoDB"   height="30" width="40" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" >  
+    <img style="center" alt="Express"   height="30" width="40" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" >   
+    <img style="center" alt="Post"      height="30" width="40" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg">  
+    <img style="center" alt="GitLab"    height="30" width="40" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg">  
+    <img style="center" alt="Docker"    height="30" width="40" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg">  
+    <img style="center" alt="Kafka"     height="30" width="40" src="https://profilinator.rishav.dev/skills-assets/apache_kafka-icon.svg">  
+    <img style="center" alt="RabbitMQ"  height="30" width="40" src="https://profilinator.rishav.dev/skills-assets/rabbitmq-icon.svg" >  
+    <img style="center" alt="Kubernet"  height="30" width="40" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg">  
+   
+   
   </td><td valign="top" width="40%">
    <img style="center" alt="Ski_Aws"   height="30" width="40" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg">
    <img style="center" alt="Azure"     height="30" width="40" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg">  
