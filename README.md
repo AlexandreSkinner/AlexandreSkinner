@@ -16,6 +16,7 @@
     <img style="center" alt="Ski_Node"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">  
     <img style="center" alt="Ski_linx"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
     <img style="center" alt="Ski_Git"   height="30" width="40" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg"> 
+    <img style="center" alt="MySQL"     height="30" width="40"src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg"> 
    
   </td><td valign="top" width="40%">
    <img style="center" alt="Ski_Aws"   height="30" width="40" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg">
