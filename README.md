@@ -11,14 +11,13 @@
     <img align="center" alt="Ski-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" alt="Ski-HTML"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Ski-CSS"   height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img style="center" alt="MySQL"     height="30" width="40"src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg">  
+    <img style="center" alt="Post"      height="30" width="40" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg">  
   
   </td><td valign="top" width="40%">
     <img style="center" alt="Ski_Node"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">  
     <img style="center" alt="Ski_linx"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
     <img style="center" alt="Ski_Git"   height="30" width="40" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg"> 
-    <img style="center" alt="MySQL"     height="30" width="40"src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg"> 
-    <img style="center" alt="Express"   height="30" width="40" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg">   
-    <img style="center" alt="Post"      height="30" width="40" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg">  
     <img style="center" alt="GitLab"    height="30" width="40" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg">  
     <img style="center" alt="Docker"    height="30" width="40" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg">   
     <img style="center" alt="Kubernet"  height="30" width="40" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg">  
