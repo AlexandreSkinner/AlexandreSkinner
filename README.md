@@ -11,8 +11,7 @@
     <img align="center" alt="Ski-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" alt="Ski-HTML"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Ski-CSS"   height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img style="center" alt="MySQL"     height="30" width="40"src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg">  
-    <img style="center" alt="Post"      height="30" width="40" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg">  
+   
   
   </td><td valign="top" width="33%">
     <img style="center" alt="Ski_Node"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">  
@@ -26,6 +25,8 @@
    <img style="center" alt="Ski_Aws"   height="30" width="40" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg">
    <img style="center" alt="Azure"     height="30" width="40" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg">  
    <img style="center" alt="Ski_Saas"  height="30" width="40" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg">  
+   <img style="center" alt="MySQL"     height="30" width="40"src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg">  
+   <img style="center" alt="Post"      height="30" width="40" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg"> 
   
  </td></tr></table> 
 
