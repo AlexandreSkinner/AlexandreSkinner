@@ -1,8 +1,8 @@
 ## Este repositório destina-se aos meus estudos sobre programação e tecnologia!
 <div align="center">
   <a href="https://github.com/AlexandreSkinner">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlexandreSkinner&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreSkinner&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlexandreSkinner&show_icons=true&theme=bear&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreSkinner&layout=compact&langs_count=7&theme=bear"/>
 </div>
 <div style="display: inline_block"><br>
  <table><tr><td valign="top" width="40%">
