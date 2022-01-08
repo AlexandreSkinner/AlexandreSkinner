@@ -1,4 +1,4 @@
-## Este repositório destina-se aos meus estudos sobre programação e tecnologia!
+## Meus repositório destinam-se aos meus estudos sobre programação e tecnologia em geral!
 <div align="center">
   <a href="https://github.com/AlexandreSkinner">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlexandreSkinner&show_icons=true&theme=bear&include_all_commits=true&count_private=true"/>
