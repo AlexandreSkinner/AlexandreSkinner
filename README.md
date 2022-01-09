@@ -26,7 +26,7 @@
     <img style="center" alt="Docker"    height="30" width="40" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg">   
     <img style="center" alt="Kubernet"  height="30" width="40" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg">  
     
-  </td><td valign="top" width="40%">
+  </td><td valign="top" width="45%">
    <img style="center" alt="Ski_Aws"   height="30" width="40" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg">
    <img style="center" alt="Azure"     height="30" width="40" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg">  
    <img style="center" alt="Ski_Saas"  height="30" width="40" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg">  
