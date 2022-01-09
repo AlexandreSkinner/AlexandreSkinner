@@ -1,10 +1,10 @@
 ## Meus repositórios destinam-se aos estudos sobre programação e tecnologia !
 
 
-<table><tr><td valign="top" width="49%">
-   <img src="https://github-readme-stats.vercel.app/api?username=AlexandreSkinner&show_icons=true&theme=bear&include_all_commits=true&count_private=true" align="center" style="width: 98%" border-width="0"/>
+<table><tr><td valign="top" width="49%" border-width="0">
+   <img src="https://github-readme-stats.vercel.app/api?username=AlexandreSkinner&show_icons=true&theme=bear&include_all_commits=true&count_private=true" align="center" style="width: 98%" />
 </td><td valign="top" width="49%">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreSkinner&layout=compact&langs_count=7&theme=bear" align="center" style="width: 98%" border-width="0"/>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreSkinner&layout=compact&langs_count=7&theme=bear" align="center" style="width: 98%" />
 </td></tr></table>  
 
 <br/>   
