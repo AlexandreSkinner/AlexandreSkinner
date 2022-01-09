@@ -4,6 +4,17 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlexandreSkinner&show_icons=true&theme=bear&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreSkinner&layout=compact&langs_count=7&theme=bear"/>
 </div>
+  
+<table><tr><td valign="top" width="50%">
+   <img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+</td><td valign="top" width="50%">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishavanand&hide_border=true&layout=compact" align="left" style="width: 100%" />
+</td></tr></table>  
+
+<br/>   
+  
+  
+  
 <div style="display: inline_block"><br>
  <table><tr><td valign="top" width="33%">
     <img align="center" alt="Ski-Js"    height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
