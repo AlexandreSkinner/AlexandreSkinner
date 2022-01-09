@@ -1,4 +1,4 @@
-## Meus repositórios destinam-se aos meus estudos sobre programação e tecnologia !
+## Meus repositórios destinam-se aos meus estudos sobre programação e tecnologia !!
 
 
 <table><tr><td valign="top" width="49%" >
