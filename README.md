@@ -1,7 +1,7 @@
 ## Meus repositórios destinam-se aos meus estudos sobre programação e tecnologia !!
 
 
-<table style="border-collapse: collapse" ><tr style="border: none"><td valign="top" width="49%" style="border: none">
+<table border-spacing: 0px, border-collapse: collapse ><tr style="border: none"><td valign="top" width="49%" style="border: none">
    <img src="https://github-readme-stats.vercel.app/api?username=AlexandreSkinner&show_icons=true&theme=bear&include_all_commits=true&count_private=true" align="center" style="width: 98%"/>
 </td><td valign="top" width="49%" style="border: none">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreSkinner&layout=compact&langs_count=7&theme=bear" align="center" style="width: 98%" />
